@@ -111,12 +111,11 @@ a{
 #content{
   margin-left: 100px;
   margin-right: 100px;
-  border-left: 1px solid #BDBDBD;
-  border-right: 1px solid #BDBDBD;
   padding-left: 50px;
   padding-right: 50px;
   background-color: #FAFAFA;
 }
 #disqus_thread{
-  padding-left: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
