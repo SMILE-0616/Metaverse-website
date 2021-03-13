@@ -119,3 +119,7 @@ a{
     display:flex;
   }
 }
+
+#disqus_thread{
+  padding-left: 50px;
+}
