@@ -40,7 +40,9 @@ a{
 .books123 img{
   float:left;
 }
-
+.books123 h4{
+  float:right;
+}
 .navbar{
   display:flex;
   justify-content: space-between;
