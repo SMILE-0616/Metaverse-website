@@ -37,11 +37,8 @@ a{
 .books123 h1{
   text-align: center;
 }
-
-#content{
-  display: flex;
-  justify-content: space-between;
-
+.books123 img{
+  float:left;
 }
 
 .navbar{
