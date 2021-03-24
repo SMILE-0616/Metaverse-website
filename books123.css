@@ -39,9 +39,7 @@ a{
 }
 .books123 img{
   float:left;
-}
-.books123 h4{
-  float:right;
+  margin-right:20px;
 }
 .navbar{
   display:flex;
