@@ -34,8 +34,12 @@ a{
   line-height: 500%;
 }
 
-.books123{
-  text-align: left;
+.books123 h1{
+  text-align: center;
+}
+
+#content{
+  display: flex;
 }
 
 .navbar{
