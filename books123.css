@@ -40,6 +40,8 @@ a{
 
 #content{
   display: flex;
+  justify-content: space-between;
+
 }
 
 .navbar{
