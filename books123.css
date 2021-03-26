@@ -41,13 +41,6 @@ a{
   float:left;
   margin-right:20px;
 }
-ul{
-  margin-left:100px;
-  margin-right:100px;
-  padding-left:50px;
-  padding-right:50px;
-}
-
 .navbar{
   display:flex;
   justify-content: space-between;
@@ -132,4 +125,16 @@ ul{
 
 #disqus_thread{
   padding-left: 50px;
+}
+
+.books123{
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #FAFAFA;
+}
+#disqus_thread{
+  margin-left: 100px;
+  margin-right: 100px;
 }
